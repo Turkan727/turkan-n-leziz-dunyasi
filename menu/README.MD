@@ -2,7 +2,7 @@
 
 Bu bölmədə "Türkanın Ləziz Dünyası" kafesində təqdim olunan xüsusi təamlar və imzalı içkilərin siyahısı yer alır.
 
-🪄 Magic Drinks (Sehirli İçkilər)
+ Magic Drinks (Sehirli İçkilər)
 Kafemizin vizual olaraq göz oxşayan, rəngarəng və xüsusi qarışıqlardan ibarət imzalı içkiləri:
 1. Göy Qurşağı Kokteyli — Təbii meyvə siropları və xüsusi bitki çayları ilə rəngini dəyişən sehrli soyuq içki.
 2. Lavanda Möcüzəsi — Təzə lavanda ekstraktı və südün mükəmməl harmoniyası.
